@@ -1,5 +1,4 @@
-//https://www.linkedin.com/learning/c-code-challenges/rotating-a-matrix?autoplay=true&resume=false
-
+//https://www.linkedin.com/learning/c-code-challenges/rotating-a-matrix
 #include <stdio.h>
 
 struct matrix{
